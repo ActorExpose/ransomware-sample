@@ -1,1 +1,3 @@
 # ransomware-sample
+
+pwd: infected
