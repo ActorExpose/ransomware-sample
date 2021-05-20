@@ -1,0 +1,36 @@
+Extracted
+Path
+C:\\README.341d6443.TXT
+Family
+darkside
+Ransom Note
+----------- [ Welcome to DarkSide ] -------------> 
+  
+ What happend? 
+ ---------------------------------------------- 
+ Your computers and servers are encrypted, backups are deleted. We use strong encryption algorithms, so you cannot decrypt your data. 
+ But you can restore everything by purchasing a special program from us - universal decryptor. This program will restore all your network. 
+ Follow our instructions below and you will recover all your data. 
+  
+ What guarantees? 
+ ---------------------------------------------- 
+ We value our reputation. If we do not do our work and liabilities, nobody will pay us. This is not in our interests. 
+ All our decryption software is perfectly tested and will decrypt your data. We will also provide support in case of problems. 
+ We guarantee to decrypt one file for free. Go to the site and contact us. 
+  
+ How to get access on website?  
+ ---------------------------------------------- 
+ Using a TOR browser: 
+ 1) Download and install TOR browser from this site: https://torproject.org/ 
+ 2) Open our website: http://darksidfqzcuhtk2.onion/CZEX8E0GR0AO4ASUCJE1K824OKJA1G24B8B3G0P84LJTTE7W8EC86JBE7NBXLMRT 
+  
+ When you open our website, put the following data in the input form: 
+ Key: 
+  
+ 0kZdK3HQhsAkUtvRl41QkOdpJvzcWnCrBjjgg5U4zfuWeTnZR5Ssjd3QLHpmbjxjo7uWzKbt8qPVuYN38TsDPI3bemd5I40ksemIzuI5OhIHZsi9cn3Wpd7OUT72FP9MyAUzR586yMsI2Ygri9in0Bf4EkG0pmBOLyRG1T788foGJQW1WxS1Qd2sMVvX0jKlbGG1zLp7g0u6buDCzSMyTjWjuVzJYufBBv7S2XvciEVvboiTNbZA4UUU6PttKERQSb018aILd6xO3ulk6fbEgZDO5tZSGn2zRevn5YXnHtg6vt1ToLe3izQOgYbs8Ja1fkfJBUYVux1ITyWBjpn0xPayKfwln8SqgMkbqiDyxEDEtFhqiffLcONMhi4TmW50loZIC6mWSaOjThWp6XSJUWPtY8Mkzs8Cs0qjPahx58iAEVIRGUVpLkMs7xPN7ydZ6wMWaOcRC1AD1JEUVTjLikXXyckgYaS6FnEv0UNEsv6QbTLSpDomIg3rEYZBib6ozrwH5n0M5wrKo8NciUBmfJWDP4XKkjznpsa05rEpuAklM0dMmZsYGVR 
+  
+ !!! DANGER !!! 
+ DO NOT MODIFY or try to RECOVER any files yourself. We WILL NOT be able to RESTORE them.  
+ !!! DANGER !!!
+URLs
+http://darksidfqzcuhtk2.onion/CZEX8E0GR0AO4ASUCJE1K824OKJA1G24B8B3G0P84LJTTE7W8EC86JBE7NBXLMRT
