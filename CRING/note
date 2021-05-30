@@ -1,0 +1,5 @@
+CRING ransomware encrypts business user and server data with AES-128 + RSA-8192 and then demands a ~ 2 BTC ransom to get the files back. The attackers exploit Internet-exposed Fortigate SSL VPN servers unpatched against the CVE-2018-13379 vulnerability, which allows them to breach their target's network. After the malicious actors have established initial access, they drop a customized Mimikatz sample followed by CobaltStrike threat emulation framework deployed using a malicious PowerShell script. The ransomware encrypts only specific files on the compromised devices after removing backup files and killing Microsoft Office and Oracle Database processes.
+
+Family: Ransom:MSIL/Cryptolocker.PDF!MTB
+MD5: c5d712f82d5d37bb284acd4468ab3533
+SHA256: f7d270ca0f2b4d21830787431f881cd004b2eb102cc3048c6b4d69cb775511c8
