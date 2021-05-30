@@ -1,0 +1,5 @@
+CoViper is by just another threat actor that wants a piece of the pie of the COVID-19 outbreak. CoViper is a Master Boot Locker Ransomware or MBRLocker. It means it does not encrypt user files but change the Booting "sequence" and hence render a system useless. An advanced computer user can recover it by installing a new MBR. This type of malware also referred to as MBR Wiper. After "Wiping" the MBR a ransom is usually demanded. Whereas in this case no ransom is demanded yet. CoViper is distributed as an installer written in PureBasic, with all interesting files packed as resources. CoViper is composed of several binaries and scripts. These files are dropped into the computer’s temporary folder (%TEMP%, usually the absolute path is C:UsersAppDataLocalTemp), created using the GetTempFileNameA API function. Once the infection is done then an message is display stating that your systems is infected with corona virus.
+
+Family: Trojan:Win32/Occamy.C
+MD5: e20ee9bbbd1ebe131f973fe3706ca799
+SHA256: f632b6e822d69fb54b41f83a357ff65d8bfc67bc3e304e88bf4d9f0c4aedc224
