@@ -1,0 +1,7 @@
+This WastedLocker ransomware encrypts the data of companies, business users, the content of their websites and servers using AES-256 (CBC mode) + RSA-4096, and then demands a ransom in between $500,000 to millions of dollars. This ransomware originates from the Russian cyber crime group called Evil Corp.
+
+Update: Evil Crop uses its new malware named Phoenix CryptoLocker
+
+Family: Ransom:Win32/DelShad
+MD5: 0ed2ca539a01cdb86c88a9a1604b2005
+SHA256: bcdac1a2b67e2b47f8129814dca3bcf7d55404757eb09f1c3103f57da3153ec8
