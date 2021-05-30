@@ -1,0 +1,5 @@
+PoetRAT is a new family of Remote Access Trojans (RAT). It gains it poetic name because it references to sonnets by English playwright William Shakespeare in the macros, which was used in malicious Word documents also known as the Dropper.It appears to be targeting Azerbaijan public and private sectors, with emphasis on energy sector. This sophisticated RAT use the COVID-19 theme to lure its victims into opening the and running the macros in the malicious Microsoft Office Word Document. The dropper, a Word documents that deploy a Python-based RAT. It has all the functionalities of a typical RAT i.e., providing full control of the compromised system to the operation. For ex-filtration, it uses FTP which provide clues to its operators intention to transfer large amounts of data.The RAT which is coded in Python is appended and the end of the dropper which is extracted and deployed when macros is executed.
+
+Family: VB.EmoooDldr.2.Gen
+MD5: 3aadbf7e527fc1a050e1c97fea1cba4d
+SHA256: 208ec23c233580dbfc53aad5655845f7152ada56dd6a5c780d54e84a9d227407
