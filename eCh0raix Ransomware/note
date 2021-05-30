@@ -1,0 +1,10 @@
+eCh0raix ransomware campaign aimed at QNAP Network Attached Storage (NAS) devices used for backups and file storage. The attackers hack servers with weak passwords and require a ransom of 0.05–0.06 BTC. The ransomware has been reported to target the following QNAP NAS devices: QNAP TS-231, QNAP TS-251, QNAP TS 253A, QNAP TS 253B, QNAP TS-451, and QNAP TS-459 Pro II.
+
+
+
+ 
+Ch0raix is ​​a compact Go program (the code takes up no more than 400 lines). Authors of the ransomware picked up passwords by brute forcing the servers. It communicate with with C&C which are located on TOR network via SOCKS5 proxy from where it downloads the ransom note, a RSA public key to encrypt the key it employs when encrypting its victim's files, and to provide the attackers with real-time insight on the malware's activity. It however, does not send system information to its server.
+
+Family: HEUR:Trojan-Ransom.Linux.Cryptor.b
+MD5: da34c9a18d9693accc477b12695bcf37
+SHA256: 154dea7cace3d58c0ceccb5a3b8d7e0347674a0e76daffa9fa53578c036d9357
